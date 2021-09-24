@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Report Template
+title: Report
 ---
 
 ## This is again some stuff
