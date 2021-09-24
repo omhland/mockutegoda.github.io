@@ -3,6 +3,7 @@ layout: default
 title: "Organizing Ourselves"
 has_children: true
 permalink: "/pages/organizing-ourselves"
+nav_order: 7
 ---
 
 
