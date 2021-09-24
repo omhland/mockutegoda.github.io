@@ -38,8 +38,12 @@ aux_links:
   - "https://github.com/mockutegoda/mockutegoda.github.io"
 aux_links_new_tab: true
  
- 
- ##### DECIDED NOT TO USE COLLECTIONS; remove later or start using them
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+
+##### DECIDED NOT TO USE COLLECTIONS; remove later or start using them
 #collections:
  #templates:   # will look for files in "_templates"
   #permalink: "/:collection/:path"
