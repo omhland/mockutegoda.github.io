@@ -2,7 +2,7 @@
 layout: default
 Title: Plan
 has_children: true
-permalink: /pages/plan/
+permalink: "/pages/plan/"
 ---
 
 
