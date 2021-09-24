@@ -34,7 +34,6 @@ plugins:
  
  collections:
   templates:   # will look for files in "_templates"
-    name: Templates
     permalink: "/:collection/:path"
     output: true
  
