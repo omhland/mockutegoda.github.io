@@ -20,3 +20,7 @@ It is very  much in progress, so, in the meantime, please refer to the Google Dr
 ## Getting started
 
 Try to explore the TOC and get yourself familiar.
+
+## We will begin
+
+by looking at memos!
