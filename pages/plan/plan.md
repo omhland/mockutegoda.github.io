@@ -1,6 +1,6 @@
 ---
 layout: default
-Title: Plan
+title: Plan
 has_children: true
 permalink: "/pages/plan/"
 ---
@@ -8,4 +8,4 @@ permalink: "/pages/plan/"
 
 # This is for a long term plan
 
-som einfor 
+some info 
