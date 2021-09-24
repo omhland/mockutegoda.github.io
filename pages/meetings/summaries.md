@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Meeting Summaries
-has_children: true
-permalink: /pages/meetings/
+parent: Meetings
 ---
 
 
