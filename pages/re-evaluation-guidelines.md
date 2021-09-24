@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Re-Evaluation Guidelines
-nav_order: 3
+parent: Plan
 ---
 
-# Re-Evaluation Guidelines
+# FINISHED Re-Evaluation Guidelines
 {: .no_toc }
 
 ## Table of contents
