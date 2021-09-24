@@ -33,8 +33,9 @@ plugins:
  # - jekyll-remote-theme # was suggested online
  
  collections:
-  Templates:
-    permalink: ":/collection/:path/"
+  templates:   # will look for files in "_templates"
+    name: Templates
+    permalink: /templates/:path
     output: true
  
 
