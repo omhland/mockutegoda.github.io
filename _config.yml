@@ -33,10 +33,11 @@ plugins:
  # - jekyll-remote-theme # was suggested online
  
  # Aux links for the upper right navigation
- aux_links:
-  "Project on Github":
-   - "https://github.com/mockutegoda/mockutegoda.github.io"
-  aux_links_new_tab: true
+aux_links:
+ "Project on Github":
+  - "https://github.com/mockutegoda/mockutegoda.github.io"
+aux_links_new_tab: true
+ 
  
  ##### DECIDED NOT TO USE COLLECTIONS; remove later or start using them
 #collections:
