@@ -2,7 +2,7 @@
 layout: default
 title: Business Idea Evaluation Framework
 nav_order: 2021-09-24
-parent: Home
+parent: Memos
 ---
 
 blah baldj 
