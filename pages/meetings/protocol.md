@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Protocol
-parent: Meeting Summaries
+parent: Meetings
 ---
 
 
