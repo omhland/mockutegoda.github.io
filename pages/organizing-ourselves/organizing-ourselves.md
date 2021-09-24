@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Organizing Ourselves
+title: "Organizing Ourselves"
 has_children: true
-permalink: /pages/organizing-ourselves
+permalink: "/pages/organizing-ourselves"
 ---
 
 
