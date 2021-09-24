@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-###### NOTE - WHEN URL AND BASEURL WHERE INCLUDED, THE REMOTE VERSION DID NOT WORK #######
+###### NOTE - WHEN URL AND BASEURL WHERE INCLUDED, THE REMOTE VERSION DID NOT WORK
 title: "Project Excellence"
 #email: mockutegoda@gmail.com
 description: "A website for documentation"
@@ -38,7 +38,7 @@ plugins:
    - "https://github.com/mockutegoda/mockutegoda.github.io"
   aux_links_new_tab: true
  
- ##### DECIDED NOT TO USE COLLECTIONS; remove later or start using them ######
+ ##### DECIDED NOT TO USE COLLECTIONS; remove later or start using them
 #collections:
  #templates:   # will look for files in "_templates"
   #permalink: "/:collection/:path"
