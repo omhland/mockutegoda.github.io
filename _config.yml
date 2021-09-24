@@ -31,6 +31,12 @@ remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
  # - jekyll-remote-theme # was suggested online
+ 
+ collections:
+  Templates:
+    permalink: ":/collection/:path/"
+    output: true
+ 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
