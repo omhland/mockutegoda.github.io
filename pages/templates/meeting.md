@@ -2,7 +2,6 @@
 layout: default
 title: Meeting
 parent: Templates
-nav_order: 1
 ---
 
 
