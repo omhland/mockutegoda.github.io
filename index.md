@@ -24,3 +24,15 @@ Try to explore the TOC and get yourself familiar.
 ## We will begin
 
 by looking at memos!
+
+
+# Memos
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta}
+
+1. TOC
+{:toc}
+
+
