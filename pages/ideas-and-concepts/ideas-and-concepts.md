@@ -2,7 +2,7 @@
 layout: default
 title: "Ideas and Concepts"
 has_children: true
-permalink: "/pages/ideas-and-concepts"
+permalink: "/pages/ideas-and-concepts/"
 nav_order: 4
 ---
 
