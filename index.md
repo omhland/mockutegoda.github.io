@@ -18,7 +18,7 @@ It is in progress. But you can find any our documents by going through tabs on t
 ## Getting started
 
 
-Try to explore the TOC and get yourself familiar. Some de
+Try to explore the TOC and get yourself familiar. Some help:
 
 
 ## [Memos](/pages/memos/)
