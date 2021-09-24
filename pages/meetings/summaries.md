@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Meeting Summaries
+title: Summaries
 parent: Meetings
 ---
 
