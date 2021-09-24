@@ -17,7 +17,7 @@ Here you will be able to find all meeting summaries
 {: .no_toc .text-delta }
 
 1. TOC
-{toc}
+{:toc}
 
 # 2021-08-30
 
