@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Now
+parent: Organizing Ourselves
+nav_order: 1
 ---
 
 # This is about planning and organisation now
