@@ -3,6 +3,7 @@ layout: default
 title: Memos
 has_children: true
 permalink: "/pages/memos/"
+nav_order: 2
 ---
 
 
