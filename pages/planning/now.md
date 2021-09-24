@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Now
-...
+---
 
 # This is about planning and organisation now
 {: .no_toc}
