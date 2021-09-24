@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 # NOTE - WHEN URL AND BASEURL WHERE INCLUDED, THE REMOTE VERSION DID NOT WORK
-title: WILL THIS CHANGE
+title: "WILL THIS CHANGE"
 #email: mockutegoda@gmail.com
-description: A website for documentation
+description: "A website for documentation"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  mockutegoda
@@ -32,10 +32,10 @@ plugins:
   - jekyll-feed
  # - jekyll-remote-theme # was suggested online
  
- collections:
-  templates:   # will look for files in "_templates"
-    permalink: "/:collection/:path"
-    output: true
+collections:
+ templates:   # will look for files in "_templates"
+  permalink: "/:collection/:path"
+  output: true
  
 
 # Exclude from processing.
