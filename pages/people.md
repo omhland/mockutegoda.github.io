@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Contacts
+title: People & Contacts
 
 ---
 
 
-# Contacts
+# People & Contacts
 {: .no_toc }
 
 ## Table of contents
