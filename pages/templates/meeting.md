@@ -8,7 +8,7 @@ parent: Templates
 
 ## This is a template for meetings
 
-## Date
+# Date
 
 ## People
 
