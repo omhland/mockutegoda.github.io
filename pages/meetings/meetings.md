@@ -21,43 +21,41 @@ Here you will be able to find all meeting summaries
 
 # 2021-08-30
 
-## People
+**People**
 
-## Topics discussed
+**Topics discussed**
 
-## Tasks assigned
+**Tasks assigned**
 
-## General conclusions
-
+**General conclusions**
 
 # 2021-09-01
 
-## People
+**People**
 
-## Topics discussed
+**Topics discussed**
 
-## Tasks assigned
+**Tasks assigned**
 
-## General conclusions
-
+**General conclusions**
 
 # 2021-09-07
 
-## People
+**People**
 
-## Topics discussed
+**Topics discussed**
 
-## Tasks assigned
+**Tasks assigned**
 
-## General conclusions
+**General conclusions**
 
 
 # 2021-09-21
 
-## People
+**People**
 
-## Topics discussed
+**Topics discussed**
 
-## Tasks assigned
+**Tasks assigned**
 
-## General conclusions
+**General conclusions**
