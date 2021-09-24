@@ -4,6 +4,7 @@ title: Home
 nav_order: 1
 description: ""
 permalink: /
+has_children: true
 ---
 
 # This website is for navigating documents
