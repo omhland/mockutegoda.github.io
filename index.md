@@ -18,23 +18,18 @@ It is very  much in progress, so, in the meantime, please refer to the Google Dr
 ---
 
 ## Getting started
-{: .no_toc }
+
 
 Try to explore the TOC and get yourself familiar.
 
 ## We will begin
-{: .no_toc }
 
-by looking at memos!
+by looking at structure
 
 
-# Memos
-{: .no_toc }
+## [Memos](/pages/memos/) 
 
-## Table of contents
-{: .no_toc .text-delta}
+## [Templates](/pages/templates/)
 
-1. TOC
-{:toc}
 
 
