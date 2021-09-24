@@ -10,11 +10,11 @@ parent: Templates
 
 # Date
 
-## People
+**People**
 
-## Topics discussed
+**Topics discussed**
 
-## Tasks assigned
+**Tasks assigned**
 
-## General conclusions
+**General conclusions**
 
