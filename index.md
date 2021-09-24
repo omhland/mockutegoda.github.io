@@ -6,16 +6,16 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Focus on writing good documentation
+# This website is for navigating documents
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+It is very  much in progress, so, in the meantime, please refer to the Google Drive.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[View Google Drive](https://drive.google.com/drive/folders/1kRYDpjQTXM8w-nbQhVLhG2OkXtVaUkYx?usp=sharing){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
 ## Getting started
 
-### Dependencies
+Try to explore the TOC and get yourself familiar.
