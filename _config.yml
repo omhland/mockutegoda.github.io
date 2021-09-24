@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+# NOTE - WHEN URL AND BASEURL WHERE INCLUDED, THE REMOTE VERSION DID NOT WORK
 title: Project Excellence
 #email: mockutegoda@gmail.com
 description: A website for documentation
