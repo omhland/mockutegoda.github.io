@@ -8,7 +8,7 @@ has_children: true
 ---
 
 # This website is for navigating documents
-{: .fs-9 }
+{: .fs-9 .no_toc }
 
 It is very  much in progress, so, in the meantime, please refer to the Google Drive.
 {: .fs-6 .fw-300 }
@@ -18,10 +18,12 @@ It is very  much in progress, so, in the meantime, please refer to the Google Dr
 ---
 
 ## Getting started
+{: .no_toc }
 
 Try to explore the TOC and get yourself familiar.
 
 ## We will begin
+{: .no_toc }
 
 by looking at memos!
 
